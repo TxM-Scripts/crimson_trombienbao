@@ -1,0 +1,70 @@
+['stopsign'] = {
+    label = 'Biển báo dừng',
+    weight = 1000, -- gram
+    stack = true,
+    close = true,
+    description = 'Một biển báo dừng vừa trộm được.'
+},
+['walkingmansign'] = {
+    label = 'Biển Báo ăn trộm',
+    weight = 1000,
+    stack = true,
+    close = true,
+    description = 'Biển báo dành cho người đi bộ vừa trộm được.'
+},
+['dontblockintersectionsign'] = {
+    label = 'Biển báo cấm chắn giao lộ',
+    weight = 1000,
+    stack = true,
+    close = true,
+    description = 'Không được dừng trong giao lộ vừa trộm được.'
+},
+['uturnsign'] = {
+    label = 'Biển báo quay đầu',
+    weight = 1000,
+    stack = true,
+    close = true,
+    description = 'Biển báo cho phép quay đầu vừa trộm được.'
+},
+['noparkingsign'] = {
+    label = 'Biển báo cấm đỗ xe',
+    weight = 1000,
+    stack = true,
+    close = true,
+    description = 'Cấm đỗ xe tại khu vực này vừa trộm được.'
+},
+['leftturnsign'] = {
+    label = 'Biển báo rẽ trái',
+    weight = 1000,
+    stack = true,
+    close = true,
+    description = 'Hướng dẫn rẽ trái vừa trộm được.'
+},
+['rightturnsign'] = {
+    label = 'Biển báo rẽ phải',
+    weight = 1000,
+    stack = true,
+    close = true,
+    description = 'Hướng dẫn rẽ phải vừa trộm được.'
+},
+['notrespassingsign'] = {
+    label = 'Biển báo cấm xâm nhập',
+    weight = 1000,
+    stack = true,
+    close = true,
+    description = 'Khu vực cấm, không được phép vào vừa trộm được.'
+},
+['yieldsign'] = {
+    label = 'Biển báo nhường đường',
+    weight = 1000,
+    stack = true,
+    close = true,
+    description = 'Nhường đường cho phương tiện khác vừa trộm được.'
+},
+['parknmeter'] = {
+    label = 'Đồng hồ đậu xe',
+    weight = 1000,
+    stack = true,
+    close = true,
+    description = 'Đồng hồ tính phí tiền đậu xe vừa trộm được.'
+},
